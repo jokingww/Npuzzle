@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry exported="true" kind="lib" path="D:/Study/2021春/人工智能/algs4.jar" sourcepath="D:/Study/2021春/人工智能/algs4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Study/2021春/人工智能/junit-jupiter-api-5.4.2.jar"/>
+	<classpathentry kind="output" path="out/production/SearchFramework1.0.1"/>
+</classpath>

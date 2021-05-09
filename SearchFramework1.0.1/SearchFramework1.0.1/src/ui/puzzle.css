@@ -1,0 +1,111 @@
+.root { 
+    display: block;
+    -fx-background-color:black;
+    -fx-base: white;
+}
+
+.text {
+	-fx-text-fill: WHITE;
+}
+
+.puzzle-field-style-no1 {
+	-fx-stroke: BLACK;
+	-fx-fill: GREENYELLOW;
+}
+
+.puzzle-field-style-no2 {
+	-fx-stroke: BLACK;
+	-fx-fill: BLUEVIOLET;
+}
+
+.puzzle-field-style-no3 {
+	-fx-stroke: BLACK;
+	-fx-fill: YELLOW;
+}
+
+.puzzle-field-style-no4 {
+	-fx-stroke: BLACK;
+	-fx-fill: CYAN;
+}
+
+.puzzle-field-style-no5 {
+	-fx-stroke: BLACK;
+	-fx-fill: RED;
+}
+
+.puzzle-field-style-no6 {
+	-fx-stroke: BLACK;
+	-fx-fill: BLUE;
+}
+
+.puzzle-field-style-no7 {
+	-fx-stroke: BLACK;
+	-fx-fill: GREEN;
+}
+
+.puzzle-field-style-no8 {
+	-fx-stroke: BLACK;
+	-fx-fill: DEEPPINK;
+}
+
+.puzzle-field-style-no9 {
+	-fx-stroke: BLACK;
+	-fx-fill: FUCHSIA;
+}
+
+.puzzle-field-style-no10 {
+	-fx-stroke: BLACK;
+	/*-fx-fill: LAVENDER;*/
+	-fx-fill: AQUAMARINE;
+}
+
+.puzzle-field-style-no11 {
+	-fx-stroke: BLACK;
+	-fx-fill: CHOCOLATE;
+}
+
+.puzzle-field-style-no12 {
+	-fx-stroke: BLACK;
+	-fx-fill: INDIGO;
+}
+
+.puzzle-field-style-no13 {
+	-fx-stroke: BLACK;
+	-fx-fill: TURQUOISE;
+}
+
+.puzzle-field-style-no14 {
+	-fx-stroke: BLACK;
+	-fx-fill: TOMATO;
+}
+
+.puzzle-field-style-no15 {
+	-fx-stroke: BLACK;
+	-fx-fill: STEELBLUE;
+}
+
+.puzzle-field-style-no16 {
+	-fx-stroke: BLACK;
+	-fx-fill: WHITE;
+}
+
+.top_choicebox {
+	-fx-min-width: 160px;
+}
+
+.right {
+	-fx-border-style: solid inside;
+	-fx-border-width: 2;
+	-fx-border-radius: 5;
+	-fx-border-color: blue;
+}
+
+.button {
+    -fx-font: 20 arial;
+    -fx-base: #b6e7c9;
+    -fx-border-color: #67644e;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-padding: 5 30 5 30;
+    -fx-margin: 0 0 20 0;
+}
