@@ -1,5 +1,5 @@
 # Npuzzle
-NPuzzle游戏，A*,IDA*算法，disjointPattern
+NPuzzle游戏，移动空位将位将牌从初始状态转变为目标状态
 
 第一阶段:
     A*算法求解
